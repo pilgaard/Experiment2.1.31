@@ -8,7 +8,7 @@ public class Main {
      */
 
     public static void main(String[] args) {
-	    /*insertionTester(1000);
+	    insertionTester(1000);
         insertionTester(2000);
         insertionTester(4000);
         insertionTester(8000);
@@ -23,7 +23,7 @@ public class Main {
         selectionTester(16000);
 
         preTime = 0;
-*/
+
         mergeTester(1000);
         mergeTester(2000);
         mergeTester(4000);
